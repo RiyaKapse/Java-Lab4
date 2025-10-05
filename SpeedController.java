@@ -1,5 +1,5 @@
   
-public class Assignment4_2 {
+public class SpeedController {
 
     // Method to check speed
     public void checkSpeed(int speed) {
@@ -27,3 +27,4 @@ public class Assignment4_2 {
         }
     }
 }
+
